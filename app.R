@@ -118,7 +118,7 @@ ui <- page_navbar(
                 ),
                 br(),
                 tags$p("Code for this model can be downloaded from Github repository by clicking",
-                       tags$a(href="https://github.com/jmheij/Glutenscreen-CUA",
+                       tags$a(href="https://github.com/jmheij/CVRM-box-cua",
                               "here.",
                               style="color:#2196c4"),
                        target="_blank"),
