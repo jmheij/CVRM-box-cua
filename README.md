@@ -1,4 +1,8 @@
-# CVRM Box cost-effectiveness and scaling analysis
+<div style="display: flex; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/028390cd-aef1-42ad-a879-5482b087fce0" alt="box_image" width="150" style="margin-right: 20px;">
+    <h1>CVRM Box cost-effectiveness and scaling analysis</h1>
+</div>
+
 This repo contains the R code necessary to reproduce the results in [link to publication].
 Please refer to the publication and corresponding Shiny app to familiarize yourself with the model before interacting with or adapting it. 
 
