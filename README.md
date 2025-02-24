@@ -9,8 +9,8 @@ This repo contains the R code necessary to reproduce the results in [link to pub
 Please refer to the publication and corresponding Shiny app to familiarize yourself with the model before interacting with or adapting it. 
 
 # Link to web-hosted App
-A user-friendly (no R experience required) decision support app was developed to facilitate interaction with the model (eg exploring different parameters and/or assumptions).
-Link: jmheij.shinyapps.io/CVRM-Box-model/
+A user-friendly (no R experience required) decision support app was developed to facilitate interaction with the model (e.g., exploring different parameters and/or assumptions).
+Access the App using https://jmheij.shinyapps.io/CVRM-Box-model/
 
 # To run
 1. Download all files, open the .Rproj file, and then open the app.R script.
